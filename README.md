@@ -1,9 +1,9 @@
 ### Context ### 
-Recreating a model that can predict gender based on names, taken from an article from Analytics Vidhya. 
+Recreating a model that can predict gender based on names, taken from a tutorial by Analytics Vidhya. 
 However, the dataset I am using will be different. This might change the results of the model from the article.
 
 ### Sources ### 
-[Article](https://www.analyticsvidhya.com/blog/2023/03/name-based-gender-identification-using-nlp-and-python/)
+[Article / Tutorial](https://www.analyticsvidhya.com/blog/2023/03/name-based-gender-identification-using-nlp-and-python/)
 
 [Dataset](https://data.world/howarder/gender-by-name)
 
